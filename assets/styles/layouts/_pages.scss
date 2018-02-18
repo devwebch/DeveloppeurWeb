@@ -43,6 +43,11 @@
       height: 100vh;
     }
 
+    .section__title {
+      font-size: 1.9rem;
+      line-height: 2.4rem;
+    }
+
     .section__title,
     .section__introduction {
       color: #fff;
@@ -149,7 +154,14 @@
       }
     }
 
-    .section--jumbotron {padding: 0}
+    .section--jumbotron {
+      padding: 0;
+
+      .section__title {
+        font-size: 3rem;
+        line-height: 3rem;
+      }
+    }
     .section--content-image {padding: 0;}
     .section--cta {padding: 50px 0;}
   }
