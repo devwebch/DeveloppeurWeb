@@ -1,23 +1,6 @@
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  font-weight: 300;
-  margin: 0 0 10px 0;
-}
-
-h3, h4, h5, h6,
-.h3, .h4, .h5, .h6 {
-  font-family: $font-family-sans-serif;
-}
-
-p {
-  line-height: 1.9em;
-}
-
-.page-header {
-  margin: 0 0 20px;
-
-  h1 {
-    font-size: 29px;
-    font-size: 300;
-  }
+blockquote {
+  @extend .blockquote;
+  background: #efefef;
+  padding: 15px 15px 5px;
+  font-style: italic;
 }

@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2017-12-16 18:22+0000\n"
+"POT-Creation-Date: 2018-01-06 18:19+0000\n"
 "Language: fr-FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1\n"
-"PO-Revision-Date: 2017-12-16 18:22+0000\n"
+"PO-Revision-Date: 2018-01-06 18:20+0000\n"
 "X-Generator: Loco - https://localise.biz/\n"
 "Project-Id-Version: Sage\n"
 "Report-Msgid-Bugs-To: \n"
@@ -13,35 +13,14 @@ msgstr ""
 "Language-Team: French (France)\n"
 "MIME-Version: 1.0"
 
-#: 404.php:6
-msgid "Sorry, but the page you were trying to view does not exist."
-msgstr ""
-
-#: base-homepage.php:11
-msgid ""
-"You are using an <strong>outdated</strong> browser. Please <a href=\"http:"
-"//browsehappy.com/\">upgrade your browser</a> to improve your experience."
-msgstr ""
-
-#: base.php:12
-msgid ""
-"You are using an <strong>outdated</strong> browser. Please <a href=\"http:"
-"//browsehappy.com/\">upgrade your\n"
-"    browser</a> to improve your experience."
-msgstr ""
-
-#: functions.php:24 lib/utils.php:16
+#: functions.php:24 lib/utils.php:18
 #, php-format
 msgid "Error locating %s for inclusion"
-msgstr ""
-
-#: index.php:3 search.php:5
-msgid "Sorry, no results were found."
-msgstr ""
+msgstr "Erreur lors de la location de %s pour inclusion"
 
 #. Template Name of the plugin/theme
 msgid "Custom Template"
-msgstr ""
+msgstr "Modèle custom"
 
 #. Name of the template
 msgid "Elementor"
@@ -49,80 +28,19 @@ msgstr ""
 
 #. Name of the template
 msgid "Full width naked"
-msgstr ""
+msgstr "Pleine largeur (nu)"
 
 #. Name of the template
 msgid "Full width"
-msgstr ""
+msgstr "Pleine largeur"
 
 #. Name of the template
 msgid "Homepage"
-msgstr ""
+msgstr "Page d'accueil"
 
-#: lib/extras.php:33
-msgid "Continued"
-msgstr ""
-
-#: lib/setup.php:38
-msgid "Primary Navigation"
-msgstr ""
-
-#: lib/setup.php:39
-msgid "Mobile Navigation"
-msgstr ""
-
-#: lib/setup.php:75
+#: lib/setup.php:76
 msgid "Primary"
-msgstr ""
-
-#: lib/setup.php:84
-msgid "Footer 1"
-msgstr ""
-
-#: lib/setup.php:92
-msgid "Footer 2"
-msgstr ""
-
-#: lib/setup.php:100
-msgid "Footer 3"
-msgstr ""
-
-#: lib/titles.php:13
-msgid "Latest Posts"
-msgstr ""
-
-#: lib/titles.php:18
-#, php-format
-msgid "Search Results for %s"
-msgstr ""
-
-#: lib/titles.php:20
-msgid "Not Found"
-msgstr ""
-
-#: templates/comments.php:9
-#, php-format
-msgctxt "comments title"
-msgid "One response to &ldquo;%2$s&rdquo;"
-msgid_plural "%1$s responses to &ldquo;%2$s&rdquo;"
-msgstr[0] ""
-msgstr[1] ""
-
-#: templates/comments.php:19
-msgid "&larr; Older comments"
-msgstr ""
-
-#: templates/comments.php:22
-msgid "Newer comments &rarr;"
-msgstr ""
-
-#: templates/comments.php:31
-msgid "Comments are closed."
-msgstr ""
-
-#: templates/entry-meta.php:2
-msgid "By"
-msgstr "Par"
+msgstr "Primaire"
 
 #. Name of the theme
 msgid "Sage"
@@ -137,9 +55,111 @@ msgid "https://roots.io/sage/"
 msgstr ""
 
 #. Author of the theme
-msgid "bVisible"
+msgid "DeveloppeurWeb"
 msgstr ""
 
 #. Author URI of the theme
-msgid "https://www.bvisible.ch"
+msgid "https://developpeurweb.ch"
 msgstr ""
+
+#: 404.php:6
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Désolé, mais la page que vous essayez d'atteindre n'existe pas."
+
+#: base-homepage.php:11 base.php:12
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http:"
+"//browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+"Vous utilisez une navigateur <strong>obsolète</strong>. Veuillez <a "
+"href=\"http://browsehappy.com/\">mettre à jour votre navigateur</a> afin "
+"d'améliorer votre expérience de navigation."
+
+#: home.php:3 index.php:5 search.php:5
+msgid "Sorry, no results were found."
+msgstr "Désolé, aucun résultat n'a été trouvé."
+
+#: lib/extras.php:33
+msgid "Continued"
+msgstr "Lire la suite"
+
+#: lib/setup.php:38
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+#: lib/setup.php:39
+msgid "Mobile Navigation"
+msgstr "Navigation mobile"
+
+#: lib/setup.php:85
+msgid "Footer 1"
+msgstr "Pied-de-page 1"
+
+#: lib/setup.php:93
+msgid "Footer 2"
+msgstr "Pied-de-page 2"
+
+#: lib/setup.php:101
+msgid "Footer 3"
+msgstr "Pied-de-page 3"
+
+#: lib/titles.php:13
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: lib/titles.php:18
+#, php-format
+msgid "Search Results for %s"
+msgstr "Résultats de recherche pour %s"
+
+#: lib/titles.php:20
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: lib/utils.php:34
+msgid "Previous"
+msgstr "Précédent"
+
+#: lib/utils.php:35
+msgid "Next"
+msgstr "Suivant"
+
+#: lib/utils.php:80
+msgid "First"
+msgstr "Début"
+
+#: lib/utils.php:83
+msgid "previous"
+msgstr "précédent"
+
+#: lib/utils.php:98
+msgid "next"
+msgstr "suivant"
+
+#: lib/utils.php:102
+msgid "Last"
+msgstr "Fin"
+
+#: templates/comments.php:9
+#, php-format
+msgctxt "comments title"
+msgid "One response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s responses to &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réponse pour &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réponses pour &ldquo;%2$s&rdquo;"
+
+#: templates/comments.php:19
+msgid "&larr; Older comments"
+msgstr "&larr; Commentaires plus ancients"
+
+#: templates/comments.php:22
+msgid "Newer comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: templates/comments.php:31
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: templates/entry-meta.php:2
+msgid "By"
+msgstr "Par"

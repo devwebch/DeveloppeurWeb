@@ -13,12 +13,3 @@
         </div>
     </div>
 </footer>
-<div class="sub-footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        &copy; <?php echo date('Y'); ?> - <?php bloginfo('name'); ?>
-      </div>
-    </div>
-  </div>
-</div>

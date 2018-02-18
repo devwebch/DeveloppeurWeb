@@ -1,36 +1,16 @@
-.elementor-button {
-  background: #fff;
-  color: $gray;
-
-  &:hover,
-  &:focus {
-    color: $gray;
-  }
-
-  &.elementor-size-sm { padding: 13px 24px; }
-
-  &.elementor-size-xs,
-  &.elementor-size-sm,
-  &.elementor-size-md,
-  &.elementor-size-lg,
-  &.elementor-size-xl {
-    border-radius: 0;
-  }
-}
-.elementor-element {
-  &.btn-ghost .elementor-button { color: $gray; background: transparent; border: 2px solid $gray; }
-  &.btn-ghost-white .elementor-button { color: #fff; background: transparent; border: 2px solid #fff; }
-  &.elementor-button-info .elementor-button { color: #fff; background: $blue-light; }
-  &.elementor-button-success .elementor-button { color: #fff; background: $green; }
-  &.elementor-button-warning .elementor-button { color: #fff; background: $orange; }
-  &.elementor-button-danger .elementor-button { color: #fff; background: $red; }
+.btn,
+.comment-form input[type="submit"],
+.search-form .search-submit {
+  text-transform: uppercase;
+  font-size: 0.7rem;
 }
 
-/* Small devices (tablets, 768px and up) */
-@media (min-width: $screen-sm-min) { }
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: $screen-md-min) { }
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: $screen-lg-min) { }
+// Small devices (landscape phones, 576px and up)
+@include media-breakpoint-up(sm) {}
+// Medium devices (tablets, 768px and up)
+@include media-breakpoint-up(md) {}
+// Large devices (desktops, 992px and up)
+@include media-breakpoint-up(lg) {}
+// Extra large devices (large desktops, 1200px and up)
+@include media-breakpoint-up(xl) {}

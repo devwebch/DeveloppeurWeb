@@ -5,7 +5,7 @@ const webpack = require('webpack');
 const workboxPlugin = require('workbox-webpack-plugin');
 const dist = 'dist';
 
-const extractSass = new ExtractTextPlugin({ filename: "styles/[name].css" });
+const extractSass = new ExtractTextPlugin({filename: "styles/[name].css"});
 
 module.exports = {
     entry: {
@@ -44,7 +44,7 @@ module.exports = {
                             sourceMap: true
                         }
                     }],
-                    // use style-loader in development
+                    // use style-loader as fallback
                     fallback: "style-loader"
                 })
             },
@@ -94,7 +94,7 @@ module.exports = {
             runtimeCaching: [
                 {
                     urlPattern: /(.jpg$|.png$|.gif$)/,
-                    handler: 'cacheFirst',
+                    handler: 'staleWhileRevalidate',
                     options: {
                         cacheName: 'images-cache',
                         cacheExpiration: {

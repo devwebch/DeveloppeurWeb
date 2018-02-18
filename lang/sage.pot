@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2017-12-16 18:22+0000\n"
+"POT-Creation-Date: 2017-12-21 17:51+0000\n"
 "Language: \n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -13,25 +13,18 @@ msgstr ""
 msgid "Sorry, but the page you were trying to view does not exist."
 msgstr ""
 
-#: base-homepage.php:11
+#: base-homepage.php:11 base.php:12
 msgid ""
 "You are using an <strong>outdated</strong> browser. Please <a href=\"http:"
 "//browsehappy.com/\">upgrade your browser</a> to improve your experience."
 msgstr ""
 
-#: base.php:12
-msgid ""
-"You are using an <strong>outdated</strong> browser. Please <a href=\"http:"
-"//browsehappy.com/\">upgrade your\n"
-"    browser</a> to improve your experience."
-msgstr ""
-
-#: functions.php:24 lib/utils.php:16
+#: functions.php:24 lib/utils.php:18
 #, php-format
 msgid "Error locating %s for inclusion"
 msgstr ""
 
-#: index.php:3 search.php:5
+#: home.php:3 index.php:5 search.php:5
 msgid "Sorry, no results were found."
 msgstr ""
 
@@ -67,19 +60,19 @@ msgstr ""
 msgid "Mobile Navigation"
 msgstr ""
 
-#: lib/setup.php:75
+#: lib/setup.php:76
 msgid "Primary"
 msgstr ""
 
-#: lib/setup.php:84
+#: lib/setup.php:85
 msgid "Footer 1"
 msgstr ""
 
-#: lib/setup.php:92
+#: lib/setup.php:93
 msgid "Footer 2"
 msgstr ""
 
-#: lib/setup.php:100
+#: lib/setup.php:101
 msgid "Footer 3"
 msgstr ""
 
@@ -94,6 +87,30 @@ msgstr ""
 
 #: lib/titles.php:20
 msgid "Not Found"
+msgstr ""
+
+#: lib/utils.php:34
+msgid "Previous"
+msgstr ""
+
+#: lib/utils.php:35
+msgid "Next"
+msgstr ""
+
+#: lib/utils.php:80
+msgid "First"
+msgstr ""
+
+#: lib/utils.php:83
+msgid "previous"
+msgstr ""
+
+#: lib/utils.php:98
+msgid "next"
+msgstr ""
+
+#: lib/utils.php:102
+msgid "Last"
 msgstr ""
 
 #: templates/comments.php:9
@@ -133,9 +150,9 @@ msgid "https://roots.io/sage/"
 msgstr ""
 
 #. Author of the theme
-msgid "bVisible"
+msgid "DeveloppeurWeb"
 msgstr ""
 
 #. Author URI of the theme
-msgid "https://www.bvisible.ch"
+msgid "https://developpeurweb.ch"
 msgstr ""

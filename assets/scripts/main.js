@@ -1,8 +1,8 @@
 window.Vue = require('vue/dist/vue.common');
 
 // Vue component: Example
-//import componentExample from './components/example.vue';
-//Vue.component('example', componentExample);
+import componentExample from './components/example.vue';
+Vue.component('example', componentExample);
 
 // Vue component: Posts
 import componentPosts from './components/posts.vue';
@@ -37,15 +37,15 @@ const app = new Vue({ el: '.wrap' });
                 // JavaScript to be fired on all pages
 
                 // Register Service Worker
-                if ('serviceWorker' in navigator) {
-                    window.addEventListener('load', () => {
-                        navigator.serviceWorker.register('/sw.js').then(registration => {
+                /*if ('serviceWorker' in navigator) {
+                        window.addEventListener('load', () => {
+                            navigator.serviceWorker.register('/sw.js').then(registration => {
                             console.log('SW registered: ', registration);
-                        }).catch(registrationError => {
-                                console.log('SW registration failed: ', registrationError);
-                        });
+                            }).catch(registrationError => {
+                                    console.log('SW registration failed: ', registrationError);
+                            });
                     });
-                }
+                }*/
 
                 /**
                  * Sticky header
