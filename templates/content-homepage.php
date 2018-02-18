@@ -2,9 +2,10 @@
     <div class="container">
         <div class="row align-items-center ">
             <div class="col-lg-6">
-                <h3 class="section__sub-title">A Creative Digital Studio</h3>
+                <h3 class="section__sub-title">Votre partenaire suisse</h3>
                 <h1 class="section__title">Agence digitale<br>du Canton de Vaud</h1>
-                <p class="section__introduction">Qui cum venisset ob haec festinatis itineribus Antiochiam, praestrictis palatii ianuis, contempto Caesare, quem videri decuerat, ad praetorium cum pompa sollemni perrexit morbosque diu causatus.</p>
+                <p class="section__introduction">Nous sommes une agence située dans le Canton de Vaud et nous voulons vous accompagner dans l'évolution de votre commerce.</p>
+                <p class="section__introduction">Etudions les besoins de vos clients avec une analyse <strong>Experience Utilisateur (UX)</strong>, mettons en place un <strong>site internet</strong> exploitant les dernières technologies et intégrant des <strong>services web dédiés</strong> à vos services.</p>
             </div>
         </div>
     </div>
@@ -16,7 +17,7 @@
             <div class="col-lg-4 left">
                 <h2 class="section__title">Nos services</h2>
                 <h3 class="section__sub-title">Ce que nous faisons de mieux</h3>
-                <a href="#" class="btn btn-outline-dark">En savoir plus</a>
+                <a href="/nos-services/" class="btn btn-outline-dark">En savoir plus</a>
             </div>
             <div class="col-lg-8 right">
                 <div class="row">
@@ -26,7 +27,7 @@
                             <div class="icon-block__content">
                                 <h3>Sites web</h3>
                                 <p>Augmentez la visibilité de votre entreprise grâce à un site vitrine ou vendez vos produits en ligne via une plateforme e-commerce.</p>
-                                <a href="#" class="">En savoir plus</a>
+                                <a href="/nos-services/" class="">En savoir plus</a>
                             </div>
                         </div>
                     </div>
@@ -36,7 +37,7 @@
                             <div class="icon-block__content">
                                 <h3>Applications mobiles</h3>
                                 <p>Vos projets d'applications Android et IOS sont également à portée de main, obtenez l'attention de vos clients sur smartphones et tablettes.</p>
-                                <a href="#" class="">En savoir plus</a>
+                                <a href="/nos-services/" class="">En savoir plus</a>
                             </div>
                         </div>
                     </div>
@@ -48,7 +49,7 @@
                             <div class="icon-block__content">
                                 <h3>Systèmes de gestions</h3>
                                 <p>Vous avez essayé tous les systèmes de gestion usuels et rien ne convient ? Nous pouvons vous mettre en place un système sur-mesure.</p>
-                                <a href="#" class="">En savoir plus</a>
+                                <a href="/nos-services/" class="">En savoir plus</a>
                             </div>
                         </div>
                     </div>
@@ -58,7 +59,7 @@
                             <div class="icon-block__content">
                                 <h3>Support</h3>
                                 <p>Vos solutions seront déployées et maintenues par nos soins, nous entretenons nos créations sur le long terme afin d'assurer leur bon fonctionnement.</p>
-                                <a href="#" class="">En savoir plus</a>
+                                <a href="/nos-services/" class="">En savoir plus</a>
                             </div>
                         </div>
                     </div>
@@ -77,7 +78,7 @@
                 <h3 class="section__sub-title">Optimisons votre commerce</h3>
                 <p>Votre site web doit faciliter la vie de votre clientèle, mais également la votre !</p>
                 <p>Offrez-vous d’avantage de visibilité et limitez les tâches rébarbatives qui consomment votre temps, vous n’aurez plus qu’à vous concentrer sur ce que vous faites de mieux.</p>
-                <a href="#" class="btn btn-outline-primary">En savoir plus</a>
+                <a href="/site-internet/" class="btn btn-outline-primary">En savoir plus</a>
             </div>
         </div>
     </div>
@@ -101,7 +102,7 @@
                 <h2 class="section__title">Expérience utilisateur</h2>
                 <h3 class="section__sub-title">Nous faisons partie des premiers experts certifiés UX en Suisse romande.</h3>
                 <p>Comprendre les vrais besoins de vos utilisateurs vous permettrons d’atteindre vos objectifs tout en offrant une expérience de qualité à vos utilisateurs.</p>
-                <a href="#" class="btn btn-outline-primary">En savoir plus</a>
+                <a href="/experience-utilisateur-ux/" class="btn btn-outline-primary">En savoir plus</a>
             </div>
             <div class="col-md-6 col-xl-7 background"></div>
         </div>
@@ -127,7 +128,7 @@
                 <h2 class="section__title">Open Source</h2>
                 <h3 class="section__sub-title">Nous favorisons la mise en place de solutions Open Source.</h3>
                 <p>Contrairement aux système propriétaires, qui peuvent se montrer lourd à mettre en place et difficile à maintenir, l’Open Source offre une communauté solide et réactive, tout en réduisant le coûts sans impacter la qualité.</p>
-                <a href="#" class="btn btn-outline-primary">En savoir plus</a>
+                <a href="/open-source/" class="btn btn-outline-primary">En savoir plus</a>
             </div>
         </div>
     </div>
