@@ -127,6 +127,7 @@ function display_sidebar()
         is_page_template('template-custom.php'),
         is_page_template('template-full-width.php'),
         is_page_template('template-full-width-naked.php'),
+        is_page_template('template-services.php'),
         is_page_template('template-elementor.php'),
     ]);
 

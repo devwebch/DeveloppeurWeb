@@ -1,3 +1,4 @@
+// Homepage
 .home {
 
   .section {
@@ -120,6 +121,32 @@
     }
   }
 
+  .icon-block {
+    i {
+      font-size: 45px;
+      float: left;
+      color: $blue;
+    }
+    .icon-block__content {
+      margin-left: 65px;
+    }
+  }
+}
+
+// Services
+.page-template-template-services {
+  .section {
+    padding: 50px 0;
+  }
+  .section--services {
+    .icon-block {
+      margin-bottom: 40px;
+    }
+
+    .left {
+      margin-bottom: 40px;
+    }
+  }
   .icon-block {
     i {
       font-size: 45px;
