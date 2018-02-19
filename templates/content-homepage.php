@@ -134,3 +134,47 @@
     </div>
 </section>
 
+<section class="section section--content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h2 class="section__title">Nos clients</h2>
+                <h3 class="section__sub-title">Les fruits de collaborations fructueuses</h3>
+            </div>
+            <div class="col-md-8">
+                <div class="row justify-content-center text-center">
+                    <div class="col-md-3">
+                        <a href="/references/urba-kids/">
+                            <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_urba_kids-300x300.jpg" alt="Urba Kids" width="150" height="150">
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_reglisse_myrtilles-300x300.jpg" alt="Réglisse & Myrtilles" width="150" height="150">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_en_terre_sauvage-300x300.jpg" alt="En Terre Sauvage" width="150" height="150">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_repaircafe-300x300.jpg" alt="Repaircafé Yverdon-les-Bains" width="150" height="150">
+                    </div>
+                </div>
+                <div class="row justify-content-center text-center">
+                    <div class="col-md-3">
+                        <a href="/references/leadspot/">
+                            <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_leadspot-300x300.jpg" alt="LeadSpot" width="150" height="150">
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_essertes2017-300x300.jpg" alt="Essertes 2017" width="150" height="150">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_interxpert-300x300.jpg" alt="InterXpert" width="150" height="150">
+                    </div>
+                    <div class="col-md-3">
+                        <img src="https://developpeurweb.ch/wp-content/uploads/2017/12/logo_jobhorizon-300x300.jpg" alt="JobHorizon" width="150" height="150">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
