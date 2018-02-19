@@ -159,6 +159,23 @@
   }
 }
 
+// Services
+.page-template-template-quote {
+
+  .icon-block {
+    margin-bottom: 20px;
+
+    i {
+      font-size: 20px;
+      float: left;
+      color: #607d8b;
+    }
+    .icon-block__content {
+      margin-left: 35px;
+    }
+  }
+}
+
 
 // Small devices (landscape phones, 576px and up)
 @include media-breakpoint-up(sm) {
