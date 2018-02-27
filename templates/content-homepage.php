@@ -5,7 +5,7 @@
                 <h3 class="section__sub-title">Votre partenaire suisse</h3>
                 <h1 class="section__title">Agence digitale<br>du Canton de Vaud</h1>
                 <p class="section__introduction">Nous sommes situés dans le Canton de Vaud et notre mission est de vous accompagner dans l'évolution de votre commerce.</p>
-                <p class="section__introduction">Etudions les besoins de vos clients avec une analyse <strong style="text-decoration: underline;">Experience Utilisateur (UX)</strong>, mettons en place un <strong style="text-decoration: underline;">site internet</strong> exploitant les dernières technologies et intégrant des <strong style="text-decoration: underline;">services web dédiés</strong> à vos services.</p>
+                <p class="section__introduction">Etudions les besoins de vos clients avec une analyse <strong style="text-decoration: underline;">expérience utilisateur (UX)</strong>, mettons en place un <strong style="text-decoration: underline;">site internet</strong> exploitant les dernières technologies et intégrant des <strong style="text-decoration: underline;">services web dédiés</strong> à vos services.</p>
             </div>
         </div>
     </div>
@@ -127,7 +127,7 @@
             <div class="col-md-6 col-xl-5 content">
                 <h2 class="section__title">Open Source</h2>
                 <h3 class="section__sub-title">Nous favorisons la mise en place de solutions Open Source.</h3>
-                <p>Contrairement aux système propriétaires, qui peuvent se montrer lourd à mettre en place et difficile à maintenir, l’Open Source offre une communauté solide et réactive, tout en réduisant le coûts sans impacter la qualité.</p>
+                <p>Contrairement aux systèmes propriétaires, qui peuvent se montrer lourd à mettre en place et difficile à maintenir, l’Open Source offre une communauté solide et réactive, tout en réduisant le coûts sans impacter la qualité.</p>
                 <a href="/open-source/" class="btn btn-outline-primary">En savoir plus</a>
             </div>
         </div>
