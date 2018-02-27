@@ -4,7 +4,7 @@
             <div class="col-lg-6">
                 <h3 class="section__sub-title">Votre partenaire suisse</h3>
                 <h1 class="section__title">Agence digitale<br>du Canton de Vaud</h1>
-                <p class="section__introduction">Nous situés dans le Canton de Vaud et notre mission est de vous accompagner dans l'évolution de votre commerce.</p>
+                <p class="section__introduction">Nous sommes situés dans le Canton de Vaud et notre mission est de vous accompagner dans l'évolution de votre commerce.</p>
                 <p class="section__introduction">Etudions les besoins de vos clients avec une analyse <strong style="text-decoration: underline;">Experience Utilisateur (UX)</strong>, mettons en place un <strong style="text-decoration: underline;">site internet</strong> exploitant les dernières technologies et intégrant des <strong style="text-decoration: underline;">services web dédiés</strong> à vos services.</p>
             </div>
         </div>
@@ -17,7 +17,7 @@
             <div class="col-lg-4 left">
                 <h2 class="section__title">Nos services</h2>
                 <h3 class="section__sub-title">Ce que nous faisons de mieux</h3>
-                <a href="/nos-services/" class="btn btn-outline-dark">En savoir plus</a>
+                <a href="/nos-services/" class="btn btn-outline-primary">En savoir plus</a>
             </div>
             <div class="col-lg-8 right">
                 <div class="row">
