@@ -1,3 +1,14 @@
+<section class="section section--content">
+    <div class="row">
+        <div class="col-md-6">
+            <h2 class="section__title">Vous avez des questions ?</h2>
+            <p class="section__introduction">N’hésitez pas à nous contacter en cas de questions ou pour un devis gratuit.</p>
+        </div>
+        <div class="col-md-6">
+            <?php the_content(); ?>
+        </div>
+    </div>
+</section>
 <section class="section section--content section--services">
     <div class="row">
         <div class="col">
@@ -59,17 +70,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-<section class="section section--content">
-    <div class="row">
-        <div class="col-md-6">
-            <h2 class="section__title">Vous avez des questions ?</h2>
-            <p class="section__introduction">N’hésitez pas à nous contacter en cas de questions ou pour un devis gratuit.</p>
-        </div>
-        <div class="col-md-6">
-            <?php the_content(); ?>
         </div>
     </div>
 </section>
